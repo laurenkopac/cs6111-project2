@@ -1,4 +1,4 @@
-# CS6111 Advanced Database Systems Spring 24 - Project 2
+# CS6111 Adv Database Systems Spring 24 - Project 2
 Mar 25, 2024
 
 ## Team
